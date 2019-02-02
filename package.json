@@ -1,0 +1,37 @@
+{
+  "name": "Discord-Dave",
+  "version": "1.0.0",
+  "description": "SauceAlfredo's bot idea",
+  "main": "dave.js",
+  "engines": {
+    "node": "10.x",
+    "npm": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node dave.js"
+  },
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "discord-js",
+    "discord-api",
+    "discordjs",
+    "discordjs-bot",
+    "javascript",
+    "discordjsbot",
+    "discordapp",
+    "discordbot",
+    "nodejs-bot",
+    "nodejs",
+    "node-js",
+    "bot",
+    "dave",
+    "dave-laronde"
+  ],
+  "author": "MysteryPancake",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
