@@ -7,7 +7,7 @@ SauceAlfredo's bot idea.
 ### Help
 *Sends useful After Effects help.*
 
-`/plzhelp`
+`!plzhelp`
 
 ## Setup
 1. [Create your app](https://discordapp.com/developers/applications/me).
