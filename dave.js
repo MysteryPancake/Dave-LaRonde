@@ -12,7 +12,7 @@ client.on("ready", function() {
 	console.log("READY FOR ACTION!");
 });
 
-const insults = ["UPGRADE YOUR PC", "DON'T USE EXPRESSION", "WE CANNOT HELP YOU WITHOUT YOUR SPECS", "HAVE YOU CONSIDERED ANOTHER PROFESSION?"];
+const insults = ["UPGRADE YOUR PC", "DON'T USE EXPRESSION", "WE CANNOT HELP YOU WITHOUT YOUR SPECS", "HAVE YOU CONSIDERED ANOTHER PROFESSION?", "JUST RESHOOT IT"];
 
 client.on("message", function(message) {
 	if (message.author.bot) return;
