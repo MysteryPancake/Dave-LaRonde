@@ -5,9 +5,9 @@ SauceAlfredo's bot idea.
 
 ## Commands
 ### Help
-*Sends useful After Effects help.*
-
 `!plzhelp`
+
+*Sends useful After Effects help.*
 
 ## Setup
 1. [Create your app with a Bot](https://discordapp.com/developers/applications/me).
