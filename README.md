@@ -18,4 +18,4 @@ SauceAlfredo's bot idea.
 6. [Run the bot](https://github.com/MysteryPancake/Dave-LaRonde/blob/master/dave.js): `npm start`
 7. Hope it works!
 
-![Icon](dave.jpg?raw=true)
+<img src="dave.jpg?raw=true" width="256">
