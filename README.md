@@ -1,3 +1,5 @@
+<img src="dave.jpg?raw=true" width="75" align="left">
+
 # [Dave LaRonde](https://discordapp.com/oauth2/authorize?client_id=536726185259040788&scope=bot)
 SauceAlfredo's bot idea.
 
@@ -17,5 +19,3 @@ SauceAlfredo's bot idea.
 5. [Install the dependencies](https://github.com/MysteryPancake/Dave-LaRonde/blob/master/package.json#L34-L36): `npm install`
 6. [Run the bot](https://github.com/MysteryPancake/Dave-LaRonde/blob/master/dave.js): `npm start`
 7. Hope it works!
-
-<img src="dave.jpg?raw=true" width="256">
